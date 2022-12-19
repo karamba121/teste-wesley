@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256832424020",
+    "project_id": "tota-b1c42",
+    "storage_bucket": "tota-b1c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256832424020:android:849215269cfdf8017445c1",
+        "android_client_info": {
+          "package_name": "com.programadorfajuto.tota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256832424020-epmcn7m47vr29hrlgvk7vt1vbmr6uunb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvkONY2JfO4ELYeHaiG8WLxoGpsB0KV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256832424020-epmcn7m47vr29hrlgvk7vt1vbmr6uunb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
